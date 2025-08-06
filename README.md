@@ -1,14 +1,22 @@
-# React Vite TypeScript Project
+# 🌐 Weather Data Visualization
 
-This project is built using:
+An interactive React + TypeScript dashboard to draw polygons on a map and visualize weather data over a custom time range.
 
-- React
-- Vite
-- TypeScript
-- shadcn/ui
-- Tailwind CSS
-- Zustand
-- React Query
+---
+
+## 🛠️ Tech Stack
+
+- **React + Vite + TypeScript** – Frontend framework & tooling
+- **Tailwind CSS** – Utility-first CSS framework
+- **shadcn/ui** – Reusable headless UI components
+- **Zustand** – Lightweight global state manager
+- **React Query** – Server state + caching
+- **Leaflet** – Map and polygon drawing
+- **React Leaflet** – React bindings for Leaflet
+- **Vercel** – Deployment
+- **GitHub** – Version control and repo management
+
+---
 
 ## Getting Started
 
